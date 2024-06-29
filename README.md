@@ -10,6 +10,8 @@ Solar-Boat-Njord-2023 Computer Vision Project](https://universe.roboflow.com/sol
 This repository contains Jupyter notebooks detailing the training process for the custom dataset. These notebooks are adapted from Roboflow's resources and tailored to our specific requirements for Njord marine marker detection.
 
 The classes in our Custom Dataset include:
+
+
 <img width="160" alt="Screenshot 2024-06-29 at 2 29 57 PM" src="https://github.com/IcebergASV/njord_real_world_marine_markers_custom_dataset_yolov5_training/assets/92492748/1c16fe0f-cb54-4659-a3e8-a0e0b82fa50e">
 
   ## Project Evolution and Documentation
