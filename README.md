@@ -1,4 +1,4 @@
-# Njord World Marine Markers Custom Dataset YOLOv5 Training
+# Njord World Marine Markers Custom Dataset YOLO Training
 
 ## Welcome
 Welcome to the *njord_real_world_marine_markers_custom_dataset_yolov5_training* repository! This project focuses on training YOLOv5 models using a custom dataset of real-life images of marine markers for the [Njord Challange](https://www.njordchallenge.com/) compettion. Our objective is to enhance object detection in marine environments, contributing to safer marine navigation and advanced research.
