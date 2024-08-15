@@ -4,8 +4,9 @@
 Welcome to the *njord_real_world_marine_markers_custom_dataset_yolov5_training* repository! This project focuses on training YOLOv5 models using a custom dataset of real-life images of marine markers for the [Njord Challange](https://www.njordchallenge.com/) compettion. Our objective is to enhance object detection in marine environments, contributing to safer marine navigation and advanced research.
 
 ## About the Project
-We utilize [Roboflow](https://roboflow.com/) for annotating and labeling images, ensuring precise and efficient dataset preparation. The Roboflow project used can be accessed at [
-Solar-Boat-Njord-2023 Computer Vision Project](https://universe.roboflow.com/solarboatnjord/solar-boat-njord-2023) in [Roboflow Universe](https://universe.roboflow.com/).
+We utilize [Roboflow](https://roboflow.com/) and [CVAT](https://www.cvat.ai/)for annotating and labeling images, ensuring precise and efficient dataset preparation. The Roboflow project used for developing our computer vision model can be accessed at:
+- [Solar-Boat-Njord-2023 Computer Vision Project](https://universe.roboflow.com/solarboatnjord/solar-boat-njord-2023)
+- [Njord Challenge Iceberg ASV](https://universe.roboflow.com/icebergasv-ab2fn/njord-challange)
 
 This repository contains Jupyter notebooks detailing the training process for the custom dataset. These notebooks are adapted from Roboflow's resources and tailored to our specific requirements for Njord marine marker detection.
 
